@@ -1,0 +1,210 @@
+Bu-Tag
+Nr.
+K00012193
+0111
+001
+63025 05
+ 7/2021
+30.07.2021 23:00 1 3
+Kontokorrent
+Kontoauszug
+EUR-Konto
+Hauptstr. 64, 75196 Remchingen
+BLZ 666 923 00 Tel.Nr. (07232) 360 0
+VR Bank Enz plus eG
+Postfach 1261, 75190 Remchingen
+Herrn und Frau
+Edmund und Iris Friedrichs
+Goethering 94
+75196 Remchingen
+5M 1
+IBAN: DE79 6669 2300 0006 3025 05 BIC: GENODE61WIR
+Ihr Berater: Nadine Kirstein
+ Tel: (07232) 360-3433
+Ihr Kreditrahmen 1.022,58
+neuer Kontostand v. 30.07.2021 19.046,68 H
+alter Kontostand vom 30.06.2021
+Wert Vorgang
+ 15.654,70 H
+01.07. 01.07. Basislastschrift PN:931 27,26 S
+ R+V Lebensversicherung AG
+ 70960106504 Leben / Friedrichs, Iris / 27.26 Folgeb. 0
+ 1.07 EREF: 231010897299 MREF: MS0000003825537 CRED: DE
+ 3600200000136091 IBAN: DE96500604000008012255 BIC: GEN
+ ODEFF
+01.07. 01.07. Basislastschrift PN:931 52,50 S
+ Rundfunk ARD, ZDF, DRadio
+ Rundfunk 07.2021 - 09.2021 Beitragsnr. 483274137 Aende
+ rungen ganz bequem: www.rundfunkbeitrag.de EREF: 48327
+ 4137 2021061301469504 MREF: 4832741371301 CRED: DE3000
+ 100000001272 IBAN: DE26600501010001362826 BIC: SOLADES
+ T600
+01.07. 01.07. Basislastschrift PN:931 28,17 S
+ Muenchener VEREIN Krankenversicherung a.
+ Kundennummer 608009 KV100A 28,17 ER
+ EF: 608009/8 01072021 01-99999946776685 MREF: KD-60800
+ 9-KV-0006302505 CRED: DE76ZZZ00000035752 IBAN: DE98700
+ 202700000002548 BIC: HYVEDEMM
+05.07. 05.07. UEBERWEISUNG PN:931 27,99 H
+ eBay
+ eBay P?5153292160 TX14719707111XT EREF: TX14719707111X
+ T
+05.07. 05.07. DA-GUTSCHRIFT PN:931 220,00 H
+ Christian Friedrichs
+06.07. 06.07. Basislastschrift PN:931 232,00 S
+ PAYPAL (EUROPE) S.A.R.L ET CIE,S.C.A.
+ PP.7813.PP . DIWARO, Ihr Einkauf bei DIWARO EREF: 1014
+ 533044540 PP.7813.PP PAYPAL MREF: 4NVJ224N59DCJ CRED:
+ LU96ZZZ0000000000000000058 IBAN: DE2350110800616160638
+ 6 BIC: CHASDEFX
+06.07. 07.07. EURO-UEBERW PN:801 38,69 S
+ Bad Apotheke Heinz-Peter Fichter e.K.
+ Re.Nr. 21-2032447 KundenNr. 72862009 TAN:611811 IBAN:
+ DE22265400700545046503 BIC: COBADEFFXXX
+12.07. 12.07. Basislastschrift PN:931 50,97 S
+ IONOS SE
+ KD-Nr. K10057282/ RG-Nr. 100089123873 EREF: 0051055786
+ Übertrag auf Blatt 2 15.473,10 H
+erstellt am Blatt von
+Kontonummer
+Bitte beachten Sie die Hinweise auf der Rückseite oder am Ende des Dokuments
+Bu-Tag
+Nr.
+K00012193
+0111
+001
+63025 05
+ 7/2021
+30.07.2021 23:00 2 3
+Kontokorrent
+Kontoauszug
+EUR-Konto
+Hauptstr. 64, 75196 Remchingen
+BLZ 666 923 00 Tel.Nr. (07232) 360 0
+Edmund und Iris Friedrichs
+ Übertrag von Blatt 1 15.473,10 H
+Wert Vorgang
+ 34 MREF: 0020000924281 CRED: DE74ZZZ00000045294 IBAN:
+ DE83200400000630148502 BIC: COBADEHH
+12.07. 12.07. Kartenzahlung girocard PN:931 33,35 S
+ ALDI SUED SAGT DANKE
+ ALDI SE + CO. KG/KARLSRUHE/DE
+ 09.07.2021 um 13:45:50 Uhr 65247139/327220/CICC/FPIN
+ 66692300/0006302505/0/1221
+13.07. 13.07. Basislastschrift PN:931 24,85 S
+ BAUHAUS KARLSRUHE
+ 090713171143904211201085230 ELV65339941 09.07 13.17 ME
+ 1 EREF: 09071317114390421120108523065339941 MREF: 6533
+ 994183192107091317 CRED: DE16ZZZ00000020245 IBAN: DE62
+ 500400000600247158 BIC: COBADEFF
+13.07. 13.07. Basislastschrift PN:931 7,52 S
+ BAUHAUS KARLSRUHE
+ 090713051081710211201085230 ELV65395002 09.07 13.05 ME
+ 1 EREF: 09071305108171021120108523065395002 MREF: 6539
+ 500260132107091305 CRED: DE16ZZZ00000020245 IBAN: DE62
+ 500400000600247158 BIC: COBADEFF
+14.07. 14.07. Basislastschrift PN:931 276,00 S
+ Bundeskasse in Trier
+ Kfz-Steuer fuer PF D 9906 fuer die Zeit vom 14.07.2021
+ bis zum 13.07.2022 Kassenzeichen K11050206581 EREF: K
+ 11050206581/000024/21ZVS15F MREF: KFZFK110502065812007
+ 2014 CRED: DE09ZZZ00000000001 IBAN: DE4759000000005900
+ 1050 BIC: MARKDEF1590
+19.07. 19.07. Kartenzahlung girocard PN:931 32,94 S
+ Getränke Legler
+ Getränke Legler/REMCHINGEN/DE
+ 17.07.2021 um 11:24:33 Uhr 52048919/032723/ECTL/
+ 66692300/0006302505/1/1221
+19.07. 19.07. Kartenzahlung girocard PN:931 47,00 S
+ Look Well
+ Look Well/REMCHINGEN/DE
+ 16.07.2021 um 08:49:54 Uhr 64030327/001326/CICC/FPIN
+ 66692300/0006302505/0/1221
+19.07. 19.07. Kartenzahlung girocard PN:931 105,00 S
+ METRO SAGT DANKE
+ METRO DEUTSCHLAND G/KARLSRUHE/DE
+ 16.07.2021 um 13:14:32 Uhr 65259681/019338/CICC/FPIN
+ 66692300/0006302505/0/1221
+20.07. 20.07. Basislastschrift PN:931 36,95 S
+ PAYPAL (EUROPE) S.A.R.L ET CIE,S.C.A.
+ PP.7813.PP . DIGITALRIVE, Ihr Einkauf bei DIGITALRIVE
+ EREF: 1014738695506 PP.7813.PP PAYPAL MREF: 4NVJ224N59
+ DCJ CRED: LU96ZZZ0000000000000000058 IBAN: DE235011080
+ 06161606386 BIC: CHASDEFX
+23.07. 23.07. Basislastschrift PN:931 216,00 S
+ Übertrag auf Blatt 3 14.693,49 H
+erstellt am Blatt von
+Kontonummer
+Bitte beachten Sie die Hinweise auf der Rückseite oder am Ende des Dokuments
+Bu-Tag
+Nr.
+K00012193
+0111
+001
+63025 05
+ 7/2021
+30.07.2021 23:00 3 3
+Kontokorrent
+Kontoauszug
+EUR-Konto
+Hauptstr. 64, 75196 Remchingen
+BLZ 666 923 00 Tel.Nr. (07232) 360 0
+Edmund und Iris Friedrichs
+ Übertrag von Blatt 2 14.693,49 H
+Wert Vorgang
+ EnBW Energie Bad-Wuertt AG
+ 381066823 Strom Abschlagsforderung EREF: B22002390348
+ 381066823 MREF: V5500000150356541 CRED: DE690000000008
+ 4184 IBAN: DE56600501017402051588 BIC: SOLADEST600
+23.07. 23.07. Basislastschrift PN:931 44,00 S
+ EnBW Energie Bad-Wuertt AG
+ 381080985 Strom Abschlagsforderung EREF: B22002390352
+ 381080985 MREF: V5500000150356642 CRED: DE690000000008
+ 4184 IBAN: DE56600501017402051588 BIC: SOLADEST600
+27.07. 27.07. LOHN/GEHALT/RENTE PN:931 4.654,27 H
+ Continental AG
+ Lohn/Gehalt 01220114/202107 EREF: DEHRPY01220114LOHNGE
+ HALT01220114202 ABWA: ADC GmbH
+29.07. 29.07. Basislastschrift PN:931 24,99 S
+ AMAZON PAYMENTS EUROPE S.C.A.
+ 304-3981439-4194709 AMZN Mktp DE I6U9VDO1JGAAEK4Z EREF
+ : I6U9VDO1JGAAEK4Z MREF: L0iPOXA718Z+QZo1m.eH,e5tZVR.a
+ : CRED: DE94ZZZ00000561653 IBAN: DE8730030880190826200
+ 6 BIC: TUBDDEDD
+29.07. 29.07. Kartenzahlung girocard PN:931 174,11 S
+ METRO SAGT DANKE
+ METRO DEUTSCHLAND G/KARLSRUHE/DE
+ 28.07.2021 um 13:40:59 Uhr 65257184/212473/ECTL/NPIN
+ 66692300/0006302505/1/1221 REF 889569/260010
+30.07. 30.07. Basislastschrift PN:931 55,98 S
+ VODAFONE BW GMBH
+ VODAFONE BW GMBH KDNR.2240530011 RGN 00128131752 1 1 0
+ 2JULI 2021 EREF: 400R69156055090 MREF: UMKBW0002000138
+ 3052 CRED: DE44ZZZ00000186290 IBAN: DE0259010066012579
+ 9660 BIC: PBNKDEFF ABWE: FRIEDRICHS, EDMUND
+30.07. 31.07. Abschluss lt. Anlage 1 PN:905 2,00 S
+ neuer Kontostand vom 30.07.2021 19.046,68 H
+Anlage 1
+Buchungstag: 30.07.2021
+Wert: 31.07.2021
+Kontoabschluss vom 01.07.2021 bis 31.07.2021 für Konto 63025 05
+ Kontoführung bis 31.07. 2,00 S
+Rechnung Nr. 0006302505.20210731.002
+USt. IdNr. - DE 144190364
+USt.-befreite Finanzdienstleistung
+ Summe Abschlussposten in EUR 2,00 S
+Sehr geehrte Kundin, sehr geehrter Kunde,
+Sie haben eine Bankmitteilung erhalten, z. B. einen Kontoauszug, einen Sparkontoauszug oder eine Dividendenabrechnung. Bitte 
+prüfen Sie diese genau: Ist alles korrekt? Falls nicht, sprechen Sie uns bitte an. Damit Sie immer gut informiert sind und wissen, wie 
+Sie Ihre Bankmitteilung "richtig lesen", haben wir diese nützlichen Hinweise für Sie zusammengestellt:
+Falls in diesem Dokument Bankdienstleistungen aufgeführt sind, sind diese umsatzsteuerfrei - sofern nichts Abweichendes angegeben
+ist. Der im Kontoauszug ausgewiesene Betrag muss nicht dem tatsächlichen Kontoguthaben entsprechen, weil z. B. die Wertstellung
+einzelner Buchungen nicht berücksichtigt wurde oder noch Zinsen für eine Kontoüberziehung bei einer Verfügung anfallen können.
+Rechnungsabschlüsse
+Ihr Kontoauszug ist mit dem Hinweis "Rechnungsabschluss" versehen?
+Dann haben wir für Ihr Konto einen Rechnungsabschluss durchgeführt, einschließlich Zinsen und Entgelte. Alle weiteren, nach dem
+Erstellungsdatum dieser Mitteilung anfallenden Umsätze und Kontoauszüge werden erst in der folgenden Abrechnung
+berücksichtigt - auch wenn sie sich auf den Abrechnungssaldo des abgelaufenen Abrechnungszeitraumes auswirken.
+Korrekturen werden gekennzeichnet. Den Rechnungsabschluss können Sie beim Finanzamt vorlegen.
+Einwendungen
+Sie haben Einwendungen gegen den Rechnungsabschluss Ihres Kontokorrentkontos oder den Inhalt des Sparkontoauszugs? Dann
